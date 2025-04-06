@@ -1,0 +1,1 @@
+Hi all, My username is Watson-365. I am a higly motivated individual with a large interest in learning to code. Utilising GitHub, I aim to document my learning of HTML, CSS, and Javascript; With the aim of (one day) moving onto coding games! 
